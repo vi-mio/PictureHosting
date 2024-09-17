@@ -37,18 +37,18 @@
 				<p>配置Token</p>
 				<img src="@/assets/help_images/setting-token.png"/>
 				<p>查看图床</p>
-				<img src="@/assets/help_images/search.png" style="zoom: 80%"/>
+				<img src="@/assets/help_images/search.jpg" style="zoom: 80%"/>
 				<p>上传文件</p>
-				<img src="@/assets/help_images/upload.png"/>
+				<img src="@/assets/help_images/upload.jpg"/>
 			</div>
 			<div v-if="active==3">
 				<h2>OK！恭喜你完成使用教程！</h2>
-				<p>
+<!--				<p>
 					<el-link href="https://github.com/Naccl" target="_blank" type="primary">作者：Naccl</el-link>
 				</p>
 				<p>
 					<el-link href="https://github.com/Naccl/PictureHosting" target="_blank" type="primary">仓库地址：https://github.com/Naccl/PictureHosting 欢迎 Star</el-link>
-				</p>
+				</p>-->
 			</div>
 		</div>
 
